@@ -1,0 +1,130 @@
+[{
+	"name": "I",
+	"description": "Introduction",
+	"section": "1-5",
+	"url": ""
+}, {
+	"name": "II",
+	"description": "General Explanations",
+	"section": "6-52A",
+	"url": ""
+}, {
+	"name": "III",
+	"description": "Of Punishments",
+	"section": "53-75",
+	"url": ""
+}, {
+	"name": "IV",
+	"description": "General Exceptions(Including Right of Private Defence(96-106))",
+	"section": "76-106",
+	"url": ""
+}, {
+	"name": "V",
+	"description": "Abetment",
+	"section": "107-120",
+	"url": ""
+}, {
+	"name": "VA",
+	"description": "Criminal Conspiracy",
+	"section": "120A-120B",
+	"url": ""
+}, {
+	"name": "VI",
+	"description": "Offences Against The State",
+	"section": "121-130",
+	"url": ""
+}, {
+	"name": "VII",
+	"description": "Offences Relating to the Army, Navy and Air Force",
+	"section": "131-140",
+	"url": ""
+}, {
+	"name": "VIII",
+	"description": "Offences against the Public Tranquillity",
+	"section": "141-160",
+	"url": ""
+}, {
+	"name": "IX",
+	"description": "Offences By or Relating to Public Servants",
+	"section": "161-171",
+	"url": ""
+}, {
+	"name": "IXA",
+	"description": "Offences Relating to Elections",
+	"section": "171A-171I",
+	"url": ""
+}, {
+	"name": "X",
+	"description": "Contempts of Lawful Authority of Public Servants",
+	"section": "172-190",
+	"url": ""
+}, {
+	"name": "XI",
+	"description": "False Evidence and Offences against Public Justice",
+	"section": "191-229A",
+	"url": ""
+}, {
+	"name": "XII",
+	"description": "Offences Relating to the Coin and Government Stamps",
+	"section": "230-263A",
+	"url": ""
+}, {
+	"name": "XIII",
+	"description": "Offences Relating to Weights and Measures",
+	"section": "264-267",
+	"url": ""
+}, {
+	"name": "XIV",
+	"description": "Offences Affecting Public Health, Safety, Convenience, Decency and Morals",
+	"section": "268-294A",
+	"url": ""
+}, {
+	"name": "XV",
+	"description": "Offences Relating to Religion",
+	"section": "295-298",
+	"url": ""
+}, {
+	"name": "XVI",
+	"description": "Offences Affecting the Human Body",
+	"section": "299-377",
+	"url": ""
+}, {
+	"name": "XVII",
+	"description": "Offences Against Property",
+	"section": "378-462",
+	"url": ""
+}, {
+	"name": "XVIII",
+	"description": "Offences Relating to Documents and Property Marks",
+	"section": "463-489E",
+	"url": ""
+}, {
+	"name": "XIX",
+	"description": "Criminal Breach of Contracts of Service",
+	"section": "490-492",
+	"url": ""
+}, {
+	"name": "XX",
+	"description": "Offences Relating to Marriage",
+	"section": "493-498",
+	"url": ""
+}, {
+	"name": "XXA",
+	"description": "Cruelty by Husband or Relatives of Husband",
+	"section": "498A",
+	"url": ""
+}, {
+	"name": "XXI",
+	"description": "Defamation",
+	"section": "499-502",
+	"url": ""
+}, {
+	"name": "XXII",
+	"description": "Criminal Intimidation, Insult and Annoyance",
+	"section": "503-510",
+	"url": ""
+}, {
+	"name": "XXIII",
+	"description": "Attempts to Commit Offences",
+	"section": "511"
+}]
