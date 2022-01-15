@@ -2,7 +2,7 @@
 	"result": [{
 		"id": "1",
 		"channel_name": "Elimtv",
-		"channel_url": "http://stream.singamcloud.in:1935/milkytv/milkytv/playlist.m3u8",
+		"channel_url": "http://198.144.149.82:8080/NOTV/MILKYTV/index.m3u8?token=GTR",
 		"user_name": "",
 		"image": "http:\/\/ambitious.in.net\/n1ew\/cloudTv\/uploads\/images\/channel_IMG2922.png",
 		"social_id": "",
